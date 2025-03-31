@@ -1,7 +1,4 @@
 # **Parallel Matrix Multiplication Compiler for pPIM Architecture**  
-*A compiler toolchain that converts CPP-based matrix multiplication into optimized machine code for LUT-based Processing-in-Memory (pPIM) architectures*  
-
----
 
 ## **🌐 Project Overview**  
 This project automates the parallelization of matrix multiplication for **pPIM** (programmable Processing-in-Memory), a novel architecture that:  
